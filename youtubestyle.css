@@ -83,6 +83,11 @@ body{
   color: black;
 }
 
+.videobox .videoInfo span{
+  float: left; 
+  padding-left: 10px
+}
+
 p a{
   color: gray;
 }
