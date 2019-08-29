@@ -88,6 +88,13 @@ body{
   padding-left: 10px
 }
 
+.rightAlign{
+  text-align: right;
+}
+#shareButton{
+  float: right;
+}
+
 p a{
   color: gray;
 }
